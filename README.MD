@@ -60,7 +60,7 @@ $ cd server
 # Instale as dependências
 $ npm install
 
-# Crie o banco de dados e aliemnte a tabela Itens
+# Crie o banco de dados e alimente a tabela Itens
 $ npm run knex:migrate
 $ npm run knex:seed
 
